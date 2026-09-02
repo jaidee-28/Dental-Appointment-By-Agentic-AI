@@ -2,7 +2,6 @@
 Dental Appointment System — powered by LangGraph + Open Router
 """
 
-from dotenv import load_dotenv
 
 
 from langchain_core.messages import HumanMessage, AIMessageChunk
